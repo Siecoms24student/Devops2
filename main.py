@@ -1,0 +1,1 @@
+print("Aandi mandi sandi ")
